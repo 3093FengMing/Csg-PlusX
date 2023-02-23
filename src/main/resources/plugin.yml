@@ -1,7 +1,8 @@
 ﻿main: org.csg.Fwmain
-author: 千千
+author: 千千, FengMing3093
 usuage: /csg
-version: 1
+version: 1.0
+api-version: 1.16
 name: Csg-Plus
 softdepend:
   - SlimeWorldManager
